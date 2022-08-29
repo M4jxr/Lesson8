@@ -1,0 +1,15 @@
+C:\Users\Serhii\Desktop\bitroot\8\Textproject\bin\Debug\net6.0\Textproject.exe
+C:\Users\Serhii\Desktop\bitroot\8\Textproject\bin\Debug\net6.0\Textproject.deps.json
+C:\Users\Serhii\Desktop\bitroot\8\Textproject\bin\Debug\net6.0\Textproject.runtimeconfig.json
+C:\Users\Serhii\Desktop\bitroot\8\Textproject\bin\Debug\net6.0\Textproject.dll
+C:\Users\Serhii\Desktop\bitroot\8\Textproject\bin\Debug\net6.0\Textproject.pdb
+C:\Users\Serhii\Desktop\bitroot\8\Textproject\obj\Debug\net6.0\Textproject.csproj.AssemblyReference.cache
+C:\Users\Serhii\Desktop\bitroot\8\Textproject\obj\Debug\net6.0\Textproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhii\Desktop\bitroot\8\Textproject\obj\Debug\net6.0\Textproject.AssemblyInfoInputs.cache
+C:\Users\Serhii\Desktop\bitroot\8\Textproject\obj\Debug\net6.0\Textproject.AssemblyInfo.cs
+C:\Users\Serhii\Desktop\bitroot\8\Textproject\obj\Debug\net6.0\Textproject.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\Desktop\bitroot\8\Textproject\obj\Debug\net6.0\Textproject.dll
+C:\Users\Serhii\Desktop\bitroot\8\Textproject\obj\Debug\net6.0\refint\Textproject.dll
+C:\Users\Serhii\Desktop\bitroot\8\Textproject\obj\Debug\net6.0\Textproject.pdb
+C:\Users\Serhii\Desktop\bitroot\8\Textproject\obj\Debug\net6.0\Textproject.genruntimeconfig.cache
+C:\Users\Serhii\Desktop\bitroot\8\Textproject\obj\Debug\net6.0\ref\Textproject.dll
